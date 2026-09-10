@@ -1,4 +1,4 @@
-// Generated from c:/Users/lolos/OneDrive - PUCRS - BR/4 - Semestre/Linguagens de Programação/Trabalho1/JavaLexer.g4 by ANTLR 4.13.1
+// Generated from d:/00-FACULDADE/4°_Semestre/Linguagens de Programação/T1/Trabalho-Lexers/JavaLexer.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
