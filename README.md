@@ -17,6 +17,7 @@ Análise crítica e comparação de dois analisadores léxicos (lexers) desenvol
 Trabalho 1
 ├── PythonLexer.g4
 ├── JavaLexer.g4
+├── .antlr
 ├── diagramas/
 │   ├── python-string.png
 │   ├── python-decimal-integer.png
